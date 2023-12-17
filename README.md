@@ -8,7 +8,7 @@ Welcome to my corner on GitHub! I'm a young programming enthusiast with a keen i
 
 ## Technologies and Projects
 
-- 💻 Web development: HTML, CSS, and exploring the worlds of .NET and Angular.
+- 💻 Web development: HTML, CSS, JavaScript.
 - ☕ Java: Worked on several mini-projects, though it's not my favorite language.
 - 💡 Kotlin: Completed an introduction and eager to learn more.
 - 🐍 Python: Tackled exercises and excited to dive deeper into this language.
@@ -16,7 +16,7 @@ Welcome to my corner on GitHub! I'm a young programming enthusiast with a keen i
 
 ## Featured Projects
 
-- [PR1](https://github.com/Eric-Lachcik/PR1): Projects made by me with html and css.
+- [PR1](https://github.com/Eric-Lachcik/PR1): Projects made by me with html , css and javascript.
 - [PR2](https://github.com/Eric-Lachcik/PR2): Projects made by me with Java.
 - [PR3](https://github.com/Eric-Lachcik/PR3): Projects made by me with Python.
 
